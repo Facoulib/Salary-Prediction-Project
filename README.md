@@ -1,7 +1,7 @@
 # Salary Prediction Project
 
 The objective of the project is to examine a set of job postings with their corresponding salaries and then predict salaries for a new set of job postings.
-This project and its reuslts can have various applications such as:
+This project and its results can have various applications such as:
 - helping companies and Human Resources departments to estimate the appropriate salaries of their future employees. 
 - allowing job seekers to negotiate a suitable salary with knowledge of different salary averages.
 - assisting federal and state governments to evaluate the current salaries trend in the job market.
